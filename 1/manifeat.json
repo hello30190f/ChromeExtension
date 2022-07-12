@@ -1,0 +1,9 @@
+{
+    "name": "My first chrome extension",
+    "action": {},
+    "manifest_version": 3,
+    "version": 0,
+    "description": "とにかくChrome の拡張機能を作りたかった",
+    "permissions": [],
+    "background": {}
+}
