@@ -1,0 +1,11 @@
+{
+    "name": "Web Class CSS overwrite",
+    "action": {},
+    "manifest_version": 3,
+    "version": "1.0",
+    "description": "This extesion overwrite Web class CSS. (Class navbar defalut-navbar)",
+    "permissions": [],
+    "background": {
+        "service_worker": "worker.js"
+    }
+}
