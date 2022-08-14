@@ -1,0 +1,7 @@
+{
+	"name": "Check meaning of unknown words",
+	"description": "This extension use google translate",
+	"version": "1.0",
+	"manifest_version": 3
+}
+
