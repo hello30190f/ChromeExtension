@@ -1,0 +1,9 @@
+{
+    "manifest _version": 2,
+    "name": "middle scroller for linux",
+    "description": "make chrome for linux be able to scroll by middle click",
+    "version": "1.0",
+    "background": {
+        "service_worker": "work.js"
+    }
+}

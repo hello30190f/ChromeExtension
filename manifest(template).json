@@ -1,0 +1,13 @@
+{
+    "manifest _version": 2,
+    "name": "Youtube comment rate",
+    "description": "show comment rate to view times",
+    "version": "1.0",
+    "background": {
+        "service_worker": "work.js"
+    },
+    "action": {
+        "default_popup": "ask.html"
+    }
+
+}
